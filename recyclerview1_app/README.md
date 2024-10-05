@@ -2,6 +2,6 @@
  
 ## Tugas 2 PAPB
 
-Nama : Ananta Risky Susanto
+Nama : Wilson Hamonangan Ariyanto Hutapea
 
-NIM  : 225150601111013
+NIM  : 225150600111022
